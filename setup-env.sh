@@ -9,7 +9,7 @@ echo ""
 
 # API Key
 if [ -z "$KIMI_API_KEY" ]; then
-    read -p "Enter your Kimi API key: " KIMI_API_KEY
+    read -p "sk-gEgGDNmp2JyKjKPjQPAzoTFiGO6ioLxvGEJ6cKX56ZwmGI0b: " KIMI_API_KEY
     export KIMI_API_KEY
     echo "KIMI_API_KEY set (not persisted)"
 else

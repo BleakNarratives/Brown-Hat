@@ -1,3 +1,8 @@
+
+# BLEAK NARRATIVES PROTOCOL
+*Autonomous AI Swarm Architecture*
+Built by the signal in the noise.
+
 # Android Swarm - Termux Edition
 
 **Production-grade Android app generation system for Termux/Ubuntu using Kimi K2.5 API and multi-agent orchestration.**
